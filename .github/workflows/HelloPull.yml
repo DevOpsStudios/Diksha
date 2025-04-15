@@ -1,6 +1,6 @@
 name: Hello world workflow
 
-on: [pull-request]
+on: [pull_request]
 
 jobs:
   say-hello:
